@@ -78,7 +78,11 @@
 #pragma mark pthread_mutex
 - (void)pthread_mutex{
 
-    
+    /**
+     互斥锁
+     
+     
+     */
 }
 
 
